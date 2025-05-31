@@ -22,6 +22,14 @@
         }
         
         function shareOnPlatform(platform) {
+
+        function shareMessenger(link) {
+                  const appId = '744478004594861';
+                  const encodedLink = encodeURIComponent(link);
+                  const url = `https://www.facebook.com/dialog/send?link=${encodedLink}&app_id=${appId}&redirect_uri=${encodedLink}`;
+                  window.open(url, '_blank');
+        }
+
             const link = document.getElementById('linkToCopy').value;
             let shareURL = '';
 
