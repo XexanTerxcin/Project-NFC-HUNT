@@ -103,9 +103,8 @@ A compact preview of the experience:
 
 - Website: https://skmdyahya.vercel.app/
 - GitHub: https://github.com/XexanTerxcin
-- Facebook: https://www.facebook.com/skmd.yahya
+- Facebook: https://www.facebook.com/skmdyahya.cayano
 - LinkedIn: https://www.linkedin.com/in/sk-md-yahya-ba8767310
-- Instagram: https://www.instagram.com/smy_gamer/
 - Discord: https://discord.com/invite/ybb77MvFNZ
 
 <p align="center">
