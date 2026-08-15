@@ -70,47 +70,6 @@ This is not just a static page — it is a practical NFC-friendly identity page 
 
 ---
 
-## 📁 Repository structure
-
-```text
-Project-NFC-HUNT/
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-├── Icons/
-├── 404/
-├── SMY GAMER/
-├── SMY-GAMER/
-├── XeXaN/
-├── bg1.jpg
-├── bg2.jpg
-├── yahya.png
-├── x.png
-└── ...
-```
-
----
-
-## 🚀 Quick start
-
-1. Clone the project
-   ```bash
-   git clone https://github.com/XexanTerxcin/Project-NFC-HUNT.git
-   ```
-2. Open the project folder
-   ```bash
-   cd Project-NFC-HUNT
-   ```
-3. Launch the homepage locally
-   ```bash
-   start index.html
-   ```
-4. Use the page as the target URL for your NFC card
-   - Write the project URL to your NFC card
-   - The card opens this profile page instantly
-   - Visitors can view portfolio, socials, and contact options instantly
-
 > This project is intended to be used as the landing destination behind an NFC-enabled personal ID card or smart business card.
 
 ---
