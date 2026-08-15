@@ -95,7 +95,7 @@ A compact preview of the experience:
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=NFC+card+link;Personal+profile;Social+connectivity;Instant+contact+access" alt="Feature summary" />
 </p>
-
+![alt text](image.png)
 ---
 
 ## 🤝 Connect
